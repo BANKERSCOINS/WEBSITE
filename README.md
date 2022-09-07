@@ -1,2 +1,2 @@
 # WEBSITE
-https:// bankerscoins.io
+https:// bankerscoins.eth
